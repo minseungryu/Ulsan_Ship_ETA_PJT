@@ -19,13 +19,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white) 
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)  ![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white) 
 
 <br>
 
 ### 분석 프로세스
 
-1. 1차 데이터 수집 및 전처리 ▶︎ 후보 항만 대기율 도출
+1. 1차 데이터 수집 및 전처리 ▶︎ 후보 항만 대기율 도출  ▶︎ target 항만 선정(울산항)
 2. target 항만(울산항) 2차 데이터 수집 및 전처리 
 3. 울산항 데이터 EDA & Feature Engineering
 4. 울산항 액체화물 선박 '분' 단위 대기시간 예측 모델링
