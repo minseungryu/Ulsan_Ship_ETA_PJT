@@ -19,7 +19,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white) 
 
 <br>
 
