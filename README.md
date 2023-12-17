@@ -19,9 +19,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 
-![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
+
 
 
 
@@ -39,15 +39,13 @@
 ### 대기율 산출을 위한 입출항 Case 정의
 
 - 대기율 산출 목적 : 후보 항만 중 target 항만 선정 지표로 채택
-
   - 선박 대기율은 항만 서비스 주요 지표로, 정확한 측정과 최적값 유지가 중요함
   - 대기율 = 대기시간 / 서비스시간
 
 - 대기율 비교 결과 : target 항만 울산항 선정
-
 - 입출항 Case 정의 목적 :  일반적인 8단계의 선박 입출항 프로세스 중 대기/서비스 시점에 영향을 미치는 시점 중심으로 Case 재정의
 
-  ![ship]("./img/ship_process.png")
+<img title="" src="./img/ship_process.png" alt="local" data-align="center" width="453">
 
 
 
@@ -67,24 +65,31 @@
 - 선석 기준 파생변수 생성 : 시간대별 누적 선박 합계, 연평균 선석 점유율, 연평균 톤 처리량, 연평균 접안 척수
 - 선박 기준 파생변수 생성 : 선박 평균 서비스 시간, 선박 평균 대기 시간
 
+<img title="" src="./img/features.png" alt="local" data-align="center" width="453">
+
 
 
 ### Model Fitting & Application
 
 - CatBoost, XGBoost, LightGBM 3가지 모델 사용, RMSE 최저 모델(LGBM) 채택
+
 - 대기시간 예측 결과 예시
-  - 이미지 삽입
+  
+  <img title="" src="./img/result.png" alt="local" data-align="center" width="453">
 
 
 
 ### 기대효과
 
-- 선박 대기비용 감소
-- 온실가스 배출 감소
+- 선박 대기비용 4조 738억 원 감소
+- 온실가스 배출량 4,668,901kg 감소
 
+<img title="" src="./img/expect.png" alt="local" data-align="center" width="453">
 
+ 
 
 ### 항만 운영 시스템 개선 제안사항
 
 - 순작업시간 점유율 30% 이하 선석(문제 선석)의 활용 방안 : 대기중 선박 정보와 문제 선석의 정보를 매칭하여 선박 대기율을 낮추고 서비스 시간을 높여 항만 운영 효율성을 제고
-- 이미지 삽입
+
+  <img title="" src="./img/expect2.png" alt="local" data-align="center" width="453">
