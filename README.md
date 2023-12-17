@@ -11,7 +11,7 @@
   - 순작업시간 점유율 하위 선석 - 대기 선박 매칭 방안 제안
 - 기대효과 : 선박 운영 비용 감소, 대기오염 배출량 감소
 
-
+<br>
 
 ### Requirements
 
@@ -21,9 +21,7 @@
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 
-
-
-
+<br>
 
 ### 분석 프로세스
 
@@ -34,7 +32,7 @@
 5. 예측 결과 활용 예시 및 기대효과 도출
 6. 항만 운영시스템 개선사항 제안
 
-
+<br>
 
 ### 대기율 산출을 위한 입출항 Case 정의
 
@@ -47,7 +45,7 @@
 
 <img title="" src="./img/ship_process.png" alt="local" data-align="center" width="453">
 
-
+<br>
 
 ### 울산항 데이터 EDA
 
@@ -58,7 +56,7 @@
 - 상관분석(액체/비액체 화물 구분)
 - K-S 검정
 
-
+<br>
 
 ### Feature Engineering
 
@@ -67,7 +65,7 @@
 
 <img title="" src="./img/features.png" alt="local" data-align="center" width="453">
 
-
+<br>
 
 ### Model Fitting & Application
 
@@ -77,7 +75,7 @@
   
   <img title="" src="./img/result.png" alt="local" data-align="center" width="453">
 
-
+<br>
 
 ### 기대효과
 
@@ -86,7 +84,7 @@
 
 <img title="" src="./img/expect.png" alt="local" data-align="center" width="453">
 
- 
+<br>
 
 ### 항만 운영 시스템 개선 제안사항
 
