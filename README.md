@@ -47,7 +47,7 @@
 
 - 입출항 Case 정의 목적 :  일반적인 8단계의 선박 입출항 프로세스 중 대기/서비스 시점에 영향을 미치는 시점 중심으로 Case 재정의
 
-  ![ship]("img/ship_process.png")
+  ![ship]("./img/ship_process.png")
 
 
 
