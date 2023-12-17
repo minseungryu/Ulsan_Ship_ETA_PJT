@@ -1,6 +1,6 @@
 # Vessel_ETA_PJT
 
-### 항만 선박 대기시간 예측 및 운영 시스템 개선 제안
+### ⛴️ 항만 선박 대기시간 예측 및 운영 시스템 개선 제안
 
 ---
 
@@ -19,10 +19,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-FFDC28?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=folium&logoColor=white)
+![folium](https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 
 
 
@@ -48,7 +47,7 @@
 
 - 입출항 Case 정의 목적 :  일반적인 8단계의 선박 입출항 프로세스 중 대기/서비스 시점에 영향을 미치는 시점 중심으로 Case 재정의
 
-  <img scr="img/ship_process.png">
+  ![ship]("img/ship_process.png")
 
 
 
